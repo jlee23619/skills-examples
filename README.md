@@ -62,35 +62,35 @@ Skills built around specific Anthropic product releases.
 | `claude-design-critic` | Audit a UI and de-AI it — design + copy fixes toward editorial/premium |
 
 ### Sales and Revenue
-| Skill | Description |
-|-------|-------------|
-| `deal-closer-playbook` | Closing strategy with buying committee mapping and objection handling |
-| `renewal-predictor` | Predict renewal likelihood from health score signals |
-| `expansion-revenue-finder` | Identify upsell and cross-sell opportunities in existing accounts |
-| `pipeline-health-analyzer` | Identify stalled deals, predict close probability |
+| Skill | Description |Reviewed|
+|-------|-------------|-------|
+| `deal-closer-playbook` | Closing strategy with buying committee mapping and objection handling | Reviewed - Not useful |
+| `renewal-predictor` | Predict renewal likelihood from health score signals | Reviewed - not relevant use case yet - renewals |
+| `expansion-revenue-finder` | Identify upsell and cross-sell opportunities in existing accounts | Reviewed - not relevant use case yet - account mgmt |
+| `pipeline-health-analyzer` | Identify stalled deals, predict close probability | Reviewed - not relevant use case yet - mgmt & ops |
 | `deal-review-framework` | MEDDIC/BANT deal assessment with risk scoring |
-| `deal-momentum-analyzer` | Score deal velocity from engagement patterns |
-| `sales-forecast-builder` | Weighted pipeline forecast with scenario modeling |
-| `sales-call-prep-assistant` | Pre-call research briefs with discovery questions |
+| `deal-momentum-analyzer` | Score deal velocity from engagement patterns | Reviewed - not useful, low quality |
+| `sales-forecast-builder` | Weighted pipeline forecast with scenario modeling | Reviewed - not useful, low quality |
+| `sales-call-prep-assistant` | Pre-call research briefs with discovery questions | Reviewed - not useful, low quality |
 | `sales-methodology-implementer` | MEDDIC, BANT, Sandler, Challenger, SPIN implementation |
-| `lead-scoring-model` | Build custom lead scoring from historical win/loss data |
-| `inbound-lead-qualifier` | Score inbound leads by ICP fit, intent, and urgency |
+| `lead-scoring-model` | Build custom lead scoring from historical win/loss data | Reviewed - not relevant use case yet - mgmt & ops |
+| `inbound-lead-qualifier` | Score inbound leads by ICP fit, intent, and urgency | Reviewed - not useful, low quality |
 | `cold-email-sequence-generator` | Multi-touch outbound campaigns optimized for response |
 | `personalization-at-scale` | Personalized first lines for hundreds of prospects |
 | `champion-identifier` | Find internal champions in target accounts |
 | `intent-signal-aggregator` | Monitor buyer intent signals across the web |
-| `objection-pattern-detector` | Mine lost deals for recurring objection patterns |
+| `objection-pattern-detector` | Mine lost deals for recurring objection patterns | Reviewed - not useful, low quality |
 | `lookalike-customer-finder` | Find companies matching your best customer profile |
-| `quota-setting-calculator` | Top-down vs bottom-up quota models |
-| `sales-comp-plan-designer` | Variable compensation design with accelerators |
-| `sales-coaching-plan-generator` | Individualized rep development plans |
-| `ramping-rep-tracker` | 30/60/90/120 day ramp milestones |
-| `rep-performance-scorecard` | Multi-dimensional rep evaluation |
-| `territory-planning-optimizer` | Account assignment by revenue potential |
-| `icp-deep-scanner` | Read-only deep scan of connected tools → data-grounded ICP + persona library |
-| `customer-panel-of-experts` | Your buyer personas debate any decision (launch, price, product) and recommend |
-| `prospect-panel-simulator` | Simulate prospects to pressure-test emails, decks, and pages before sending |
-| `pricing-change-strategist` | Plan a price increase: segmentation, scenarios, grandfathering, full comms kit |
+| `quota-setting-calculator` | Top-down vs bottom-up quota models | Not Reviewed - not relevant use case yet - mgmt & ops |
+| `sales-comp-plan-designer` | Variable compensation design with accelerators | Not Reviewed - not relevant use case yet - mgmt & ops |
+| `sales-coaching-plan-generator` | Individualized rep development plans | Not Reviewed - not relevant use case yet - mgmt & ops |
+| `ramping-rep-tracker` | 30/60/90/120 day ramp milestones | Not Reviewed - not relevant use case yet - mgmt & ops |
+| `rep-performance-scorecard` | Multi-dimensional rep evaluation | Not Reviewed - not relevant use case yet - mgmt & ops |
+| `territory-planning-optimizer` | Account assignment by revenue potential | Not Reviewed - not relevant use case yet - mgmt & ops |
+| `icp-deep-scanner` | Read-only deep scan of connected tools → data-grounded ICP + persona library | Not Reviewed - not relevant use case yet - mgmt & ops |
+| `customer-panel-of-experts` | Your buyer personas debate any decision (launch, price, product) and recommend | Not Reviewed - not relevant use case yet - mgmt & ops |
+| `prospect-panel-simulator` | Simulate prospects to pressure-test emails, decks, and pages before sending | Not Reviewed - not relevant use case yet - mgmt & ops |
+| `pricing-change-strategist` | Plan a price increase: segmentation, scenarios, grandfathering, full comms kit | Not Reviewed - not relevant use case yet - mgmt & ops |
 
 ### Consulting and Professional Services
 | Skill | Description |
